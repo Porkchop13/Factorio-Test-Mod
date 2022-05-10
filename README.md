@@ -2,7 +2,7 @@
 ![GitHub Workflow Status](https://img.shields.io/github/workflow/status/Porkchop13/Factorio-Test-Mod/Lint?label=lint)
 ![GitHub](https://img.shields.io/github/license/Porkchop13/Factorio-Test-Mod)
 
-# Mod Template
+# Test Mod
 
 Test Factorio mod for testing workflows and connection to mod portal
 
